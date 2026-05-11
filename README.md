@@ -6,8 +6,8 @@ Builder at the intersection of data and strategy. Built and operate [CycleScopeX
 
 ## Live Product
 
-### [CycleScopeX](https://cyclescopex.com)
-**Bitcoin On-Chain Market Intelligence Platform**
+### **[CycleScopeX](https://cyclescopex.com)**
+**__Bitcoin On-Chain Market Intelligence Platform__**
 
 - A paid analytics platform that helps investors identify Bitcoin market cycles using on-chain data. Built and operated independently.
 
