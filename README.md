@@ -9,26 +9,26 @@ Builder at the intersection of data and strategy. Built and operate [CycleScopeX
 ### [CycleScopeX](https://cyclescopex.com)
 **Bitcoin On-Chain Market Intelligence Platform**
 
-A paid analytics platform that helps investors identify Bitcoin market cycles using on-chain data. Built and operated independently.
+- A paid analytics platform that helps investors identify Bitcoin market cycles using on-chain data. Built and operated independently.
 
 ---
 
 ## Projects — Quant & Data Science
-
 <!-- Add your projects here -->
+**__[Master Data Science Portfolio](https://github.com/pruthvishvyas/Data-Science-Portfolio)__**
+- A curated collection of data science projects spanning quantitative analysis, machine learning, and market research. Each project is built around a real problem with a defined analytical approach and reproducible output.
+
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, SQL
-
-**Data Science & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, BeautifulSoup, SciPy
-
-**Tools:** VS Code, Jupyter, Git, GitHub, MySQL, Apache Spark, Google Search Console, SEMrush
+- **Languages:** Python, SQL
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, BeautifulSoup, SciPy
+- **Tools:** VS Code, Jupyter, Git, GitHub, MySQL, Apache Spark, Google Search Console, SEMrush
 
 ---
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/pruthvishvyas) · [Website](https://pruthvishvyas.com)
+📪[LinkedIn](https://linkedin.com/in/pruthvishvyas) · 🌐 [Website](https://pruthvishvyas.com)
