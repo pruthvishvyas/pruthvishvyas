@@ -19,6 +19,18 @@ Builder at the intersection of data and strategy. Built and operate [CycleScopeX
 
 
 ---
+## Professional Highlights
+
+**Independent Product Strategist & Developer (Apr 2024 – Present)**
+- Building and operating data-centric products independently. Core work involves quantitative analysis, iterative product development, and translating data findings into viable business tools.
+
+**Insights Intern, IIMA Ventures (Aug 2024)**
+- Managed content migration and authored a Standard Operating Procedure to standardize processes for future team members.
+
+**SEO Intern, Allevents.in (Aug 2023 – Mar 2024)**
+- Executed on-page and off-page SEO strategies, built 1000+ backlinks, and conducted performance analysis using Google Search Console and Semrush.
+
+---
 
 ## Tech Stack
 
